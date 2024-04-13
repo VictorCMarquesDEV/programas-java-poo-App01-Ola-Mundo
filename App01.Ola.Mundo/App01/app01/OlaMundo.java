@@ -1,4 +1,4 @@
-package App01;
+package app01;
 
 public class OlaMundo {
 
